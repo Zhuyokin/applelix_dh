@@ -5,7 +5,7 @@
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
       url: https://github.com/cloudreve/Cloudreve
-      description: 具有多云支持的自托管文件管理系统。
+      description: 具有1多云支持的自托管文件管理系统。
     - title: youtube-dl
       logo: github.jpg
       url: https://github.com/ytdl-org/youtube-dl
